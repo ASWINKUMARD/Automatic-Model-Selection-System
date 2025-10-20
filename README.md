@@ -54,3 +54,9 @@ This project automates the selection of the best classification model for your d
 - Ensures optimal model selection for your dataset 📈
 
 - Easy to integrate into ML pipelines 🔗
+
+### 👨‍💻 Author
+
+**Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
